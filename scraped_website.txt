@@ -1,0 +1,810 @@
+
+
+	
+		Skip to content	
+
+
+
+    
+    
+        
+                        
+                
+            
+                
+        
+        
+            
+                
+            
+        
+                    
+                
+            
+                +Courses
+Doubts
+Blog
+Ask a question
+        
+                                        
+                
+                             
+           
+                                                                                    Sign In
+                                    
+    
+
+
+
+
+Semestudy,
+
+
+
+Crack This Semester  with Semestudy
+
+
+
+Browse Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viva Questions
+
+
+
+
+
+Notes
+
+
+
+
+
+PYQ’s
+
+
+
+
+
+Video Solutions
+
+
+
+
+
+Join a community of 4,00+ Engineering Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Courses  
+
+
+
+
+	
+	
+					
+				
+					
+
+
+	
+		
+			
+				Release Date (newest first)			
+			
+				Release Date (oldest first)			
+			
+				Course Title (a-z)			
+			
+				Course Title (z-a)			
+		
+	
+
+
+				
+				
+					
+
+
+
+	
+		
+			
+		
+	
+	
+
+
+	
+            
+        
+
+
+
+
+		
+		
+					
+
+			
+	
+
+
+	Learn C Programming
+
+
+
+			
+			
+			0
+		
+	
+			
+			
+			
+				 10h			
+		
+	
+
+
+	
+		
+			 		
+	
+
+	
+		By		Semestudy Team
+
+					In			Skill Development			
+
+
+
+
+
+	Enroll Course
+
+
+
+
+	
+		
+			
+		
+	
+	
+
+
+	
+            
+        
+
+
+
+
+		
+		
+					
+
+					
+				4.50			
+			
+				(2)
+			
+			
+	
+
+
+	Python Developer Internship
+
+
+
+			
+			
+			5
+		
+	
+	
+
+
+	
+		
+			 		
+	
+
+	
+		By		Semestudy Team
+
+					In			Virtual Internship Program			
+
+
+
+
+
+	Enroll Course
+
+
+
+
+	
+		
+			
+		
+	
+	
+
+
+	
+            
+        
+
+
+
+
+		
+		
+					
+
+					
+				5.00			
+			
+				(3)
+			
+			
+	
+
+
+	Web Development Internship
+
+
+
+			
+			
+			21
+		
+	
+	
+
+
+	
+		
+			 		
+	
+
+	
+		By		Semestudy Team
+
+					In			Virtual Internship Program			
+
+
+
+
+
+	Enroll Course
+
+
+
+
+	
+		
+			
+		
+	
+	
+
+
+	
+            
+        
+
+
+
+
+		
+		
+					
+
+			
+	
+
+
+	Graphics Design Internship
+
+
+
+			
+			
+			4
+		
+	
+	
+
+
+	
+		
+			 		
+	
+
+	
+		By		Semestudy Team
+
+					In			Virtual Internship Program			
+
+
+
+
+
+	Enroll Course
+
+
+
+
+	
+		
+			
+		
+	
+	
+
+
+	
+            
+        
+
+
+
+
+		
+		
+					
+
+					
+				5.00			
+			
+				(2)
+			
+			
+	
+
+
+	Virtual Web Development Internship
+
+
+
+			
+			
+			8
+		
+	
+			
+			
+			
+				 12h			
+		
+	
+
+
+	
+		
+			 		
+	
+
+	
+		By		Semestudy Team
+
+					In			Skill Development			
+
+
+
+
+
+	Enroll Course
+
+
+
+
+	
+		
+			
+		
+	
+	
+
+
+	
+            
+        
+
+
+
+
+		
+		
+					
+
+					
+				4.50			
+			
+				(2)
+			
+			
+	
+
+
+	Build a Expense Tracker with Python
+
+
+
+			
+			
+			3
+		
+	
+			
+			
+			
+				 1h			
+		
+	
+
+
+	
+		
+			 		
+	
+
+	
+		By		Semestudy Team
+
+					In			Skill Development			
+
+
+
+
+
+	Enroll Course
+
+
+				
+			
+			
+
+
+
+	
+	
+		
+			
+				
+			
+
+			
+				
+										Hi, Welcome back!
+					
+			
+	
+
+	
+		
+	
+
+	
+		
+	
+
+	
+			
+			
+		
+			
+			
+				Keep me signed in			
+		
+		
+			Forgot?		
+	
+
+		
+		Sign In	
+	
+					
+			Don't have an account? 
+			
+				Register Now			
+		
+		
+
+	document.addEventListener('DOMContentLoaded', function() {
+		var { __ } = wp.i18n;
+		var loginModal = document.querySelector('.tutor-modal.tutor-login-modal');
+		var errors = [];
+		if (loginModal && errors.length) {
+			loginModal.classList.add('tutor-is-active');
+		}
+	});
+
+
+									
+						
+			#tutor-pro-twitter-login {
+				width: 400px; background-color: #00acee; border-color: #00acee; font-weight: bold;
+			}
+		
+		
+								
+						
+											
+							
+					
+		
+	
+
+
+
+
+
+Browse Courses
+
+
+
+
+
+BlogsLatest post by Semestudy
+
+
+
+
+Learning Guide20 Project Ideas for Computer Engineering Students By Ajink Gupta July 22, 2023Introduction: Hey, I am Ajink Gupta, and in this blog, we will explore a collection of 20+ creative and challengingSyllabusB.E.  Computer Engineering syllabus Mumbai University By Semestudy Team June 30, 2023B.E. Computer Engineering syllabus Mumbai University First Year Engineering SEMESTER I SEMESTER II Second Year Engineering SEMESTER III SEMESTER SyllabusB.E. Artificial Intelligence & Data Science syllabus Mumbai University By Semestudy Team June 30, 2023B.E. Artificial Intelligence & Data Science syllabus Mumbai University The syllabus for the first year of B.E. Artificial How TOBuilding a Simple Calculator with HTML, CSS, and JavaScript By Semestudy Team June 21, 2023In this tutorial, we will walk you through the process of creating a simple calculator using HTML, CSS, and JavaScript.Viva QuestionsComputer Graphics Viva Question & Answers semester 3 By Semestudy Team June 10, 2023Module: Introduction and Overview of Graphics System No. Content Q1 What is computer graphics? A1 Computer graphics is the fieldViva QuestionsData Structure viva Question & Answers Semester 3 By Semestudy Team June 10, 2023This set of viva questions and answers provides a comprehensive overview of data structures and their applications. Starting with anCG ProgramsSolar System in Computer Graphics using C By Ajink Gupta May 20, 2023Problem statement : Write a C program to draw a solar system using computer graphics Code Output : Run thisCG ProgramsHappy Diwali in Computer Graphics using C By Ajink Gupta May 20, 2023Problem statement : Write a C program to draw Happy Diwali with Crackers using computer graphics Code Output : RunCG ProgramsIndia Flag in Computer Graphics using C By Ajink Gupta May 20, 2023Problem statement : Write a C program to draw indian Flag using computer graphics Code Output :
+
+
+
+
+
+
+FeedbackReal students, real results
+
+
+
+
+
+Abhijeet SinghSemestudy ne meri academic journey ko bilkul badal diya hai. Unke comprehensive courses aur study materials ne mere engineering concepts ki samajh ko bahut badha diya hai.
+
+
+
+
+
+Vishakha Semestudy ke mock tests ne mere exams ki taiyari ka mahatvapurna hissa banaya aur mujhe bahut acche parinam diye hai
+
+
+
+
+
+Shlok“The viva questions provided by Semestudy for engineering subjects were exceptionally helpful. They covered key topics and prepared me well for my examinations.”
+
+
+
+
+
+
+
+Want to get special offersand Course updates?
+
+
+
+
+
+
+    
+    Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+												
+									contact:
+
+notify@semestudy.com
+
+		
+Instagram
+
+LinkedIn
+
+YouTube
+			
+			
+				
+					
+						Quick LinksAbout
+Internship
+Blog
+					
+					
+						ResourcesCourses
+Viva Questions
+Faqs
+					
+					
+						SupportContact
+Terms
+Privacy Policy
+Community
+					
+				
+			
+		
+	
+
+	
+		
+			
+							
+						
+				© All rights reserved.
+			
+		
+	
+
+
+
+            
+                
+                    Want to receive push notifications for all major on-site activities?
+                    
+                        Enable Notifications
+                        Never
+                        ✕
+                    
+                
+            
+            	
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	
+	
+
+
+
+
+
+
+
+
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+
+
+/* <![CDATA[ */
+var _tutor_pro_trans = {"no_data_found_in_this_section":"No data found in this section","search_":"Search...","calendar":"Calendar"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var _tutorobject = {"ajaxurl":"https:\/\/semestudy.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/semestudy.com","site_title":"SemeStudy","base_path":"\/","tutor_url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/","tutor_pro_url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor-pro\/","nonce_key":"_tutor_nonce","_tutor_nonce":"b2fe4dbee5","loading_icon_url":"https:\/\/semestudy.com\/wp-admin\/images\/wpspin_light.gif","placeholder_img_src":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/images\/placeholder.svg","enable_lesson_classic_editor":"1","tutor_frontend_dashboard_url":"https:\/\/semestudy.com\/dashboard\/","wp_date_format":"MMMM d, yyyy","is_admin":"","is_admin_bar_showing":"","addons_data":[{"name":"BuddyPress","description":"Discuss about course and share your knowledge with your friends through BuddyPress","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/buddypress\/thumbnail.png"},{"name":"Gradebook","description":"Shows student progress from assignment and quiz","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/gradebook\/thumbnail.png"},{"name":"Content Drip","description":"Unlock lessons by schedule or when the student meets specific condition.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/content-drip\/thumbnail.png"},{"name":"Enrollment","description":"Take advanced control on enrollment. Enroll the student manually.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/enrollments\/thumbnail.png"},{"name":"WooCommerce Subscriptions","description":"Capture Residual Revenue with Recurring Payments.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/wc-subscriptions\/thumbnail.png"},{"name":"Paid Memberships Pro","description":"Maximize revenue by selling membership access to all of your courses.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/pmpro\/thumbnail.png"},{"name":"Restrict Content Pro","description":"Unlock Course depending on Restrict Content Pro Plugin Permission.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/restrict-content-pro\/thumbnail.png"},{"name":"Tutor Assignments","description":"Tutor assignments is a great way to assign tasks to students.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-assignments\/thumbnail.png"},{"name":"Tutor Certificate","description":"Students will be able to download a certificate after course completion.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-certificate\/thumbnail.png"},{"name":"Tutor Course Attachments","description":"Add unlimited attachments\/ private files to any Tutor course","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-attachments\/thumbnail.png"},{"name":"Tutor Course Preview","description":"Unlock some lessons for students before enrollment.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-preview\/thumbnail.png"},{"name":"Tutor E-Mail","description":"Send email on various tutor events","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-email\/thumbnail.png"},{"name":"Tutor Multi Instructors","description":"Start a course with multiple instructors by Tutor Multi Instructors","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-multi-instructors\/thumbnail.png"},{"name":"Tutor Prerequisites","description":"Specific course you must complete before you can enroll new course by Tutor Prerequisites","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-prerequisites\/thumbnail.png"},{"name":"Tutor Report","description":"Check your course performance through Tutor Report stats.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-report\/thumbnail.png"},{"name":"Quiz Export\/Import","description":"Save time by exporting\/importing quiz data with easy options.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/quiz-import-export\/thumbnail.png"},{"name":"Tutor Zoom Integration","description":"Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-zoom\/thumbnail.png"},{"name":"Tutor Google Meet Integration","description":"Connect Tutor LMS with Google Meet to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-meet\/thumbnail.png"},{"name":"Google Classroom Integration","description":"Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-classroom\/thumbnail.png"},{"name":"Calendar","description":"Allow students to see everything in a calendar view in the front dashboard.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-calendar\/thumbnail.png"},{"name":"Notifications","description":"Get On Site and Push Notifications on specified tutor events.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-notifications\/thumbnail.png"},{"name":"Weglot","description":"Translate & manage multilingual courses for global reach with full edit control.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-weglot\/thumbnail.png"},{"name":"WPML Multilingual CMS","description":"Create multilingual courses, lessons, dashboard and more for a global audience.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-wpml\/thumbnail.png"},{"name":"Social Login","description":"Let users register & login through social network like Facebook, Google, etc.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/social-login\/thumbnail.svg"},{"name":"Course Bundle","description":"Group multiple courses to sell together.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/course-bundle\/thumbnail.svg"}],"current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"content_change_event":"tutor_content_changed_event","is_tutor_course_edit":"","assignment_max_file_allowed":"0","current_page":"","quiz_answer_display_time":"2000","is_ssl":"1","course_list_page_url":"https:\/\/semestudy.com\/wp-admin\/admin.php?page=tutor","course_post_type":"courses","tutor_pn_vapid_key":"BH0uDuQbcHspx3peh9nN84PYp2vDh7_NdeyGNYzpJLIDTmUh7R8ts-0HggcHJlk4N-78VLKVwqPEDb1zjRYPIKg","tutor_pn_client_id":"0","tutor_pn_subscription_saved":"no"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close tags","enterURL":"Enter the URL","enterImageURL":"Enter the URL of the image","enterImageDescription":"Enter a description of the image","textdirection":"text direction","toggleTextdirection":"Toggle Editor Text Direction","dfw":"Distraction-free writing mode","strong":"Bold","strongClose":"Close bold tag","em":"Italic","emClose":"Close italic tag","link":"Insert link","blockquote":"Blockquote","blockquoteClose":"Close blockquote tag","del":"Deleted text (strikethrough)","delClose":"Close deleted text tag","ins":"Inserted text","insClose":"Close inserted text tag","image":"Insert image","ul":"Bulleted list","ulClose":"Close bulleted list tag","ol":"Numbered list","olClose":"Close numbered list tag","li":"List item","liClose":"Close list item tag","code":"Code","codeClose":"Close code tag","more":"Insert Read More tag"};
+/* ]]> */
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var _tutorobject = {"ajaxurl":"https:\/\/semestudy.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/semestudy.com","site_title":"SemeStudy","base_path":"\/","tutor_url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/","tutor_pro_url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor-pro\/","nonce_key":"_tutor_nonce","_tutor_nonce":"b2fe4dbee5","loading_icon_url":"https:\/\/semestudy.com\/wp-admin\/images\/wpspin_light.gif","placeholder_img_src":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/images\/placeholder.svg","enable_lesson_classic_editor":"1","tutor_frontend_dashboard_url":"https:\/\/semestudy.com\/dashboard\/","wp_date_format":"MMMM d, yyyy","is_admin":"","is_admin_bar_showing":"","addons_data":[{"name":"BuddyPress","description":"Discuss about course and share your knowledge with your friends through BuddyPress","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/buddypress\/thumbnail.png"},{"name":"Gradebook","description":"Shows student progress from assignment and quiz","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/gradebook\/thumbnail.png"},{"name":"Content Drip","description":"Unlock lessons by schedule or when the student meets specific condition.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/content-drip\/thumbnail.png"},{"name":"Enrollment","description":"Take advanced control on enrollment. Enroll the student manually.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/enrollments\/thumbnail.png"},{"name":"WooCommerce Subscriptions","description":"Capture Residual Revenue with Recurring Payments.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/wc-subscriptions\/thumbnail.png"},{"name":"Paid Memberships Pro","description":"Maximize revenue by selling membership access to all of your courses.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/pmpro\/thumbnail.png"},{"name":"Restrict Content Pro","description":"Unlock Course depending on Restrict Content Pro Plugin Permission.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/restrict-content-pro\/thumbnail.png"},{"name":"Tutor Assignments","description":"Tutor assignments is a great way to assign tasks to students.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-assignments\/thumbnail.png"},{"name":"Tutor Certificate","description":"Students will be able to download a certificate after course completion.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-certificate\/thumbnail.png"},{"name":"Tutor Course Attachments","description":"Add unlimited attachments\/ private files to any Tutor course","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-attachments\/thumbnail.png"},{"name":"Tutor Course Preview","description":"Unlock some lessons for students before enrollment.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-course-preview\/thumbnail.png"},{"name":"Tutor E-Mail","description":"Send email on various tutor events","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-email\/thumbnail.png"},{"name":"Tutor Multi Instructors","description":"Start a course with multiple instructors by Tutor Multi Instructors","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-multi-instructors\/thumbnail.png"},{"name":"Tutor Prerequisites","description":"Specific course you must complete before you can enroll new course by Tutor Prerequisites","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-prerequisites\/thumbnail.png"},{"name":"Tutor Report","description":"Check your course performance through Tutor Report stats.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-report\/thumbnail.png"},{"name":"Quiz Export\/Import","description":"Save time by exporting\/importing quiz data with easy options.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/quiz-import-export\/thumbnail.png"},{"name":"Tutor Zoom Integration","description":"Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-zoom\/thumbnail.png"},{"name":"Tutor Google Meet Integration","description":"Connect Tutor LMS with Google Meet to host live online classes. Students can attend live classes right from the lesson page.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-meet\/thumbnail.png"},{"name":"Google Classroom Integration","description":"Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/google-classroom\/thumbnail.png"},{"name":"Calendar","description":"Allow students to see everything in a calendar view in the front dashboard.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-calendar\/thumbnail.png"},{"name":"Notifications","description":"Get On Site and Push Notifications on specified tutor events.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-notifications\/thumbnail.png"},{"name":"Weglot","description":"Translate & manage multilingual courses for global reach with full edit control.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-weglot\/thumbnail.png"},{"name":"WPML Multilingual CMS","description":"Create multilingual courses, lessons, dashboard and more for a global audience.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/tutor-wpml\/thumbnail.png"},{"name":"Social Login","description":"Let users register & login through social network like Facebook, Google, etc.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/social-login\/thumbnail.svg"},{"name":"Course Bundle","description":"Group multiple courses to sell together.","url":"https:\/\/semestudy.com\/wp-content\/plugins\/tutor\/assets\/addons\/course-bundle\/thumbnail.svg"}],"current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"content_change_event":"tutor_content_changed_event","is_tutor_course_edit":"","assignment_max_file_allowed":"0","current_page":"","quiz_answer_display_time":"2000","is_ssl":"1","course_list_page_url":"https:\/\/semestudy.com\/wp-admin\/admin.php?page=tutor","course_post_type":"courses","tutor_pn_vapid_key":"BH0uDuQbcHspx3peh9nN84PYp2vDh7_NdeyGNYzpJLIDTmUh7R8ts-0HggcHJlk4N-78VLKVwqPEDb1zjRYPIKg","tutor_pn_client_id":"0","tutor_pn_subscription_saved":"no"};
+/* ]]> */
+
+
+
+
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+
+
+var tutorProCourseBundle = {"is_course_bundle_editor":false}
+
+
+
+var tutorProSocialLogin = {"is_enabled_google_login":true,"google_client_id":"830090629843-e5bd1u71281ivn1sh81j645ee6cpv4oq.apps.googleusercontent.com","is_enabled_facebook_login":false,"facebook_app_id":"","page_name":""}
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/semestudy.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+			aplang = aplang||{};
+			aplang.shLanguage = 'Language';
+			aplang.shInline = 'Is inline?';
+			aplang.shTxtPlholder = 'Insert code snippet here ...';
+			aplang.shButton = 'Insert to editor';
+			aplang.shTitle = 'Insert code';
+
+			window.apBrushPath = "https://semestudy.com/wp-content/plugins/anspress-question-answer//addons/syntaxhighlighter/syntaxhighlighter/scripts/";
+		
+
+
+
+/* <![CDATA[ */
+var tutorstarter_vars = {"site_url":"https:\/\/semestudy.com","ajaxurl":"https:\/\/semestudy.com\/wp-admin\/admin-ajax.php","authRedirectUrl":"https:\/\/semestudy.com"};
+/* ]]> */
+
+
+	
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	
+	
+
+
